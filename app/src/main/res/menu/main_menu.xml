@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/notification"
+        android:title="notifications"
+        android:icon="@drawable/notifications"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/botaoAcao2"
+        android:title="account"
+        android:icon="@drawable/account"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/bars"
+        android:title="bars"
+        android:icon="@drawable/config"
+        app:showAsAction="ifRoom" />
+
+</menu>
