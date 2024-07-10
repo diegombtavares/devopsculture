@@ -10,7 +10,6 @@
 - [Funcionalidades](#funcionalidades)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
-- [Imagens](#imagens)
 
 ## Introdução
 
@@ -32,25 +31,3 @@ Diego Tavares - Analista de Infraestrutura Cloud - diegombtavares
 ## Agradecimentos
 
 Agradeço ao professor [Igor Turto](https://github.com/turtinho) pelas orientações valiosas e pelo suporte no desenvolvimento do projeto **devopsculture**.
-
-## Imagens
-
-Aqui estão capturas de tela da aplicação **devopsculture**:
-
-- **Automação com Ansible:**
-  ![Automação com Ansible](images/ansible.png)
-  
-- **Containerização com Docker:**
-  ![Containerização com Docker](images/docker.png)
-  
-- **Orquestração com Rundeck:**
-  ![Orquestração com Rundeck](images/rundeck.png)
-  
-- **Integração com GitHub:**
-  ![Integração com GitHub](images/github.png)
-  
-- **Monitoramento com Grafana:**
-  ![Monitoramento com Grafana](images/grafana.png)
-  
-- **Gerenciamento de Cloud com OCI:**
-  ![Gerenciamento de Cloud com OCI](images/oci.png)
